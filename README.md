@@ -1,2 +1,3 @@
-# Jr.-Penetration-Testing
-Documentation of my Penetration Testing learning journey, covering networking, web application security, vulnerability assessment, enumeration, exploitation fundamentals.
+# TryHackMe - Jr Penetration Tester Path
+
+This repository documents my learning journey through the TryHackMe Jr Penetration Tester path. It contains structured notes, commands, key concepts, tools, and practical takeaways from each room completed during my penetration testing studies.
